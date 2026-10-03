@@ -3,14 +3,18 @@
 Explore your loan's payoff behavior. You will be able to enter a starting principal, annual interest rate, and monthly payment to see the loan's payoff schedule and total interest.
 
 ## Requirements
-  Node.js
-  npm
+  - Node.js
+  - npm
 
 ## Installation
 Clone the repository:
+  ```bash
   git clone https://github.com/timpepjam2005-dot/loanscope.git
+  ```
 Enter the project folder:
+  ```bash
   cd loanscope
+  ```
 Install the required dependencies:
   ```bash
   npm install
