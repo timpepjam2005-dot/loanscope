@@ -36,6 +36,7 @@ LoanScope uses a React frontend and an Express backend.
   ```
   Vite will provide a local URL, usually:
     http://localhost:5173
+  
   Open that URL in your web browser.
 
 ## Features
