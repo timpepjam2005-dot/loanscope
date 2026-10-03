@@ -23,19 +23,20 @@ Install the required dependencies:
 ## Running the Application
 LoanScope uses a React frontend and an Express backend.
   ### 1. Start the project folder, run:
-          ```bash
-          node server/server.js
-          ```
-        The backend should start on:
-          http://localhost:3000
+  From the project folder, run:
+  ```bash
+  node server/server.js
+  ```
+  The backend should start on:
+    http://localhost:3000
   ### 2. Start the frontend
-        Open a second terminal in the project folder and run:
-          ```bash
-          npm run dev
-          ```
-        Vite will provide a local URL, usually:
-          http://localhost:5173
-        Open that URL in your web browser.
+  Open a second terminal in the project folder and run:
+  ```bash
+  npm run dev
+  ```
+  Vite will provide a local URL, usually:
+    http://localhost:5173
+  Open that URL in your web browser.
 
 ## Features
   - Loan principal input
